@@ -1,6 +1,6 @@
 # PyObfuscator
 ![alt text](https://img.shields.io/badge/Coded-xNot_Found-blue.svg)
-![alt text](https://img.shields.io/badge/Size-153KB-yellow.svg)
+![alt text](https://img.shields.io/badge/Size-261KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-2.7-green.svg)
 
 # Sample Image
